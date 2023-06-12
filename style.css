@@ -38,7 +38,7 @@ html {
 .container1 {
  justify-content: center;
  display: flex;
- gap: 16px;
+ gap: 32px;
 }
 
 table {
@@ -56,6 +56,58 @@ td {
  padding-bottom: 48px;
  padding-left: 78px;
  padding-right: 78px;
+}
+
+th {
+ font-size: 20px;
+ font-weight: 700;
+ color: #000;
+ font-family: Helvetica;
+ padding: 32px;
+}
+
+.items {
+ font-size: 20px;
+ font-weight: 700;
+ font-family: inter;
+}
+
+.price {
+ font-size: 20px;
+ font-weight: 700;
+ font-family: inter;
+}
+
+.iphone {
+ font-size: 16px;
+ font-weight: 400;
+ letter-spacing: 0.24em;
+ color: #000;
+ font-family: Helvetica;
+}
+
+.redmi {
+ font-size: 16px;
+ font-weight: 400;
+ letter-spacing: 0.24em;
+ color: #000;
+ font-family: Helvetica;
+}
+
+.samsung {
+ font-size: 16px;
+ font-weight: 400;
+ letter-spacing: 0.24em;
+ color: #000;
+ font-family: Helvetica;
+}
+
+.nokia {
+ font-size: 16px;
+ font-weight: 400;
+ letter-spacing: 0.24em;
+ color: #000;
+ font-family: Helvetica;
 }
 
 .form-info {
